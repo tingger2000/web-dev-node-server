@@ -1,0 +1,25 @@
+{
+  "name": "web-dev-node-server",
+  "version": "1.0.0",
+  "description": "Node.js HTTP Web server for the Tuiter application",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tingger2000/web-dev-node-server.git"
+  },
+  "keywords": [
+    "Node",
+    "REST",
+    "Server",
+    "HTTP"
+  ],
+  "author": "Kaylee Ger",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tingger2000/web-dev-node-server/issues"
+  },
+  "homepage": "https://github.com/tingger2000/web-dev-node-server#readme"
+}
