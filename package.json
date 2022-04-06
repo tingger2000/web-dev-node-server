@@ -25,6 +25,7 @@
   "homepage": "https://github.com/tingger2000/web-dev-node-server#readme",
   "dependencies": {
     "cors": "^2.8.5",
-    "express": "^4.17.3"
+    "express": "^4.17.3",
+    "mongoose": "^6.2.10"
   }
 }
